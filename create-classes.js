@@ -1,6 +1,6 @@
 // Nome da página: REGENTES, INGLÊS, FRANCÊS, ED_FÍSICA, MÚSICA
 const sheetName = 'FRANCÊS'
-const emailOwner = 'ed.infantil@liceufranco.g12.br';
+const emailOwner = ' ';
 
 // Criação do objeto
 function createOneClass(classInfo) {
