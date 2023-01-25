@@ -1,6 +1,6 @@
 function getClassesID() {
   // URL DOC
-  const urlDoc = 'https://docs.google.com/spreadsheets/d/1-GGLNxZePtBttlBz3MWsWKxUjkPzCHdmD2piSyF3bac/edit?usp=sharing';
+  const urlDoc = ' ';
 
   // REGENTES
   const sheetName = 'ED_FÍSICA';
