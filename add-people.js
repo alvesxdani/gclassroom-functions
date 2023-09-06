@@ -1,3 +1,4 @@
+// Add Student of Teacher
 function addPeople() {
   let infoClasses = Classroom.Courses.list().courses;
 
