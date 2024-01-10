@@ -8,7 +8,7 @@ function addPeople() {
     try {
       Classroom.Invitations.create({
         "courseId": c.id,
-        "userId": "2024500121@aluno.lfb.g12.br",
+        "userId": "email.do.aluno@aluno.lfb.g12.br",
         "role": "STUDENT"
       })
       Logger.log("Sucesso ao adicionar na turma: " + c.name + " - " + c.section)
